@@ -1,0 +1,6 @@
+apiVersion: v2
+name: AD-TRC-GPO
+description: Chart for deploying k8s operators to give AD correct certificates
+type: application
+version: 0.0.0
+appVersion: "0.0.0"
